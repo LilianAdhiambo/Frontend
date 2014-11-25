@@ -1,0 +1,11 @@
+m@charset "utf-8";
+@import url("../images/lil.png.css");
+/* CSS Document */
+
+body{margin:20px;padding:10px;background-color:purple}
+ul li{color:yellow}
+ul li{font-family:"Trebuchet MS", Arial, Helvetica, sans-serif}
+ul li{text-align:centre}
+ul li{font-weight:bold}
+ul li{border-color:red;border-width:5px;border-style:dotted}
+ul li{font-size:18px}

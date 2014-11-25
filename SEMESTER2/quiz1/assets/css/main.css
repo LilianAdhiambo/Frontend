@@ -1,0 +1,131 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{
+		width:700px;
+		margin:20px auto 0 auto;
+		background-color: 	#808080 ;
+		height: 830px; 
+		-webkit-border-radius: 5px;
+	    -moz-border-radius: 5px;
+	    border-radius: 5px;
+	    border:3px solid #FF00FF;
+}
+
+#box1{
+	border: 2px black;
+	height:200px;
+	float:left;
+	width:170px;
+	background: #00FFFF;
+	margin:2px;
+	
+
+}
+
+#box2{
+	border:2px black;
+	height:200px;
+	width:170px;
+	float:left;
+	background:#FF00FF;
+	margin:2px;
+	
+}
+#box3{
+	border:2px black;
+	height:200px;
+	width:170px;
+	float:left;
+	background:#006400;
+	margin:2px;
+	
+}
+#box4{
+	border:2px black;
+	height:200px;
+	width:172px;
+	float:left;
+	background:#1E90FF;
+	margin:2px;
+}
+#box5{
+	border:2px black;
+	height:200px;
+	width:344px;
+	float:left;
+	background:#1E90FF;
+	margin:2px;
+	margin-left: 2px;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+
+}
+#box6{
+	border:2px black;
+	height:200px;
+	width:344px;
+	float: right;
+	background:#1E90FF;
+	margin:2px;
+	margin-left: 2px;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+}
+#box7{
+	border:2px black;
+	height:200px;
+	width:344px;
+	float: left;
+	background:#1E90FF;
+	margin:2px;
+	margin-right: 2px;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+	
+
+
+}
+#box8{
+	border:2px black;
+	height:200px;
+	width:344px;
+	float: right;
+	background:#1E90FF;
+	margin:2px;
+	margin-right: 2px;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+
+}
+#box9{
+	text-align: center;
+	background-color:#008000;
+	width:693px;
+	height:203px;
+	margin:3px;
+	border:2px solid #00000;
+	border-radius:2px 2px 2px 2px;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+}
+p{
+	font-family: vijaya;
+	margin: 5px 0 auto 0 auto;
+	font-size:18px;
+	margin:5px;
+
+}
+
+body{
+	background-color:#FA8072;
+}

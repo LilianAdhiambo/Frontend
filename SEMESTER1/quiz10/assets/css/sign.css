@@ -1,0 +1,34 @@
+h1 {
+	font-family: Algerian, Courier;
+	font-size: 36px;
+	font-weight: bold;
+	text-align:right;
+	text-shadow: 2px 2px #FF0;
+	color:#0F0;
+}
+#wrapper{background-image:url(../images/pictures/Pretty-Purple-Backgrounds.jpg); margin:0 auto 0 auto; border:solid 2px #FF0; width:1000px;}
+ul li {
+	list-style: none;
+	padding:0px 0px 50px 0px;
+	color:#F0F;	
+	 
+}
+
+}
+p {
+	color: #F0F;
+	font-family: "Adobe Arabic";
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+}
+h2 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #0FF;
+	text-shadow: 2px 2px #333;
+}
+#blue{ float:right; margin-right:40px;}
+#green{ text-align:center;}
+form{ text-align:center;}

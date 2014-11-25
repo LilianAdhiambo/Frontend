@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{
+	width: 900px;
+	margin:0 auto;
+	/*-webkit-border-radius: 5px;*/
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+    background-color:#C0C0C0;
+    height: 1000px;
+    border-radius:25px;
+}
+body{
+	background-color:#696969;
+}
+/*styling header*/
+nav ul li{
+	display: inline;
+	border:2px solid #a1a1a1;
+	padding:10px 40px; 
+	background:#dddddd;
+	width:400px;
+	border-radius:25px;
+
+}
+
+nav ul li a:hover {
+	font-size: 15px;
+  background:#C71585;
+  border:1px solid;
+  border-radius:25px;
+  color: #fff;
+}
+
+nav ul li a{
+	text-decoration: none;
+	padding: 0px 20px;
+}
+header #panel{
+	float: left;
+
+}
+header{
+	width:900px;
+    height:150px;
+	box-shadow: 5px 5px 5px #888888;
+	border-radius:25px;
+	background-color:#4682B4;
+
+}
+/*styling section*/
+#content ul{
+	float: right;
+	width:300px;
+	border-left: 2px solid #888888;
+	margin:0px 0px 30px 0px;
+	list-style: none;
+	border-bottom: 2px solid #888888;
+	
+}
+#slogan{
+	background-image: url("../images/nh.jpg");
+	
+}
+h3{
+	text-align: center;
+	font-family:vijaya;
+	font-size: 26px;
+}
+
+/*styling footer*/
+
+footer{
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+    height:25%;
+    background-color:#202020 ;
+}
+
+
+footer{
+	border-radius:25px;
+	border-top-right-radius:0px;
+	border-top-left-radius:0px; 
+}
+
+footer p{
+		text-align: center;
+		font-family: impact;
+		font-size: 23px;
+
+	}

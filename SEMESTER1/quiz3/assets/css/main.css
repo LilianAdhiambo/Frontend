@@ -1,0 +1,27 @@
+body {
+	background:yellow
+}
+h1 {
+	background:purple;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-style:oblique;font-size:36px
+}
+#foot {
+	background:green;
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	font-style:italic
+}
+#content {
+	background:red;
+	font-family:"Times New Roman", Times, serif;
+	border-color:orange;
+	border-style:dashed;
+	border-width:thick
+}
+p {
+	font-style:oblique;
+	font-family:Tahoma, Geneva, sans-serif;
+	border-style:dashed;
+	background:brown;
+	font-size:36px
+}

@@ -1,0 +1,176 @@
+		#wrapper
+		{
+			margin:0 auto;
+			background-color:#B3DFFC;
+			width: 1000px;
+			border-radius: 15px;
+			min-height: 1000px;
+
+		}
+
+		body
+
+		{
+			background-color:#708090;
+		}
+
+
+		table 
+
+		{
+		    border-collapse: collapse;
+		    width:900px;
+		    margin: 20px;
+		}
+
+
+		table, td, th 
+
+		{
+		    border: 1px solid black;
+		}
+
+		td
+
+		{
+			text-align: left;
+			padding:5px;
+		}
+
+		th,tfoot
+
+		{
+			padding: 10px;
+			font-family:impact;
+			font-size: 25px;
+			text-align: left;
+			background-color:#778899;
+
+		}
+
+		tr:nth-child(2n+1)
+
+		{
+			background-color:#778899; 
+		}
+
+
+		tr:nth-child(even)
+
+		{
+			background-color:#9370DB;
+		}
+
+		tr:nth-child(3n+1)
+
+		{
+			background-color:#DA70D6;
+		}
+
+		td:nth-child(4n-7)
+
+		{
+			background-color:#DCDCDC;
+		}
+
+		td:nth-child(2)
+
+		{
+			background-color:#6495ED;
+		}
+
+		td:nth-child(4)
+
+		{
+			background-color:#6495ED;
+		}
+
+		p
+
+		{
+			 font-family:vijaya;
+			 font-size:14px;
+			 margin:15px;
+		}
+
+		.panel
+		{
+			column-count:2;
+			-moz-column-count:2; /* Firefox */
+			-webkit-column-count:2; /* Safari and Chrome */
+			 margin:15px;
+		}
+
+		#text img
+
+		{
+			border-radius:120px;
+			margin:20px;
+
+		}
+
+		#text1 img
+
+		{
+			border-radius:120px;
+			margin:20px;
+
+		}
+
+		#text
+
+		{
+			background-color:#1E90FF;
+			border-radius:15px; 
+		}
+
+		#text1
+
+		{
+			background-color:#1E90FF;
+			border-radius:15px; 
+		}
+
+		.pen
+
+		{
+			background-color:#FFFAF0;
+			color:#00FF00; 
+			text-transform: uppercase;
+		}
+
+		#rust
+
+		{
+			text-align: center;
+		}
+
+		h2
+
+		{
+			font-family:impact;
+			font-size: 29px;
+			text-shadow:2px solid #FF1493;
+			text-align: center;
+
+		}
+
+		h1
+
+		{
+			font-family:New Times Roman;
+			font-size: 30px;
+			text-shadow:2px solid #FF1493;
+			text-align: center;
+			margin:20px 0px 0px 0px;
+		}
+
+		header
+
+		{
+			box-shadow: 2px 2px solid #1E90FF;
+			width:1000px;
+			height:100px;
+			background-color:#1E90FF; 
+			border-radius: 15px;
+		}

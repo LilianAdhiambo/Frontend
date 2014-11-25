@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body{margin:0;padding:0;background-color:green}
+h1{background:green}
+ol{color:purple}
+p{background:yellow}
+
+ul{background-color:yellow}
+ul li{color:red}
+
+ol{background-color:blue}
+ol li{color:purple}
+
+h2{background:red}
+h2{font-family:italic, algerian}
+
+{font-size:18px}
+.fit{border-color:white;border-width:32px;border-style:solid}
+.kit{font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif,font-size:36px,bacground-color:purple}
+.pit{background-color:yellow}
+.mit{background-color:purple}
+#yy{background-color:yellow}
+img{alignment-adjust:central}

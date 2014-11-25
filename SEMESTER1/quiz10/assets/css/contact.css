@@ -1,0 +1,49 @@
+#wrapper {
+	background-image: url(../images/pictures/Vector_Art_flowers_background.jpg);
+	margin: 0 auto 0 auto;
+	border: solid 2px #F00;
+	width: 1000px;
+}
+#blue {margin-right:20px;
+	float: right;
+}
+form {
+	margin: 10px;
+	text-align: center;
+}
+ul li {
+	list-style: none;
+	padding: 0px 0px 50px 0px;
+}
+#violet {
+	text-align: center;
+	
+}
+h2 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #0FF;
+	text-shadow: 2px 2px #333;
+}
+h1 {
+	font-family: "Adobe Arabic";
+	font-size: 40px;
+	font-style: italic;
+	text-shadow: 2px 2px #FF0;
+	color: #900;
+	text-align: right;
+}
+p {
+	color: #F00;
+	font-family: adobe arabic;
+	font-size: 25px;
+	font-style: italic;
+	text-align: center;
+}
+#footer {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 20px;
+	font-style: normal;
+	color: #F0F;
+}

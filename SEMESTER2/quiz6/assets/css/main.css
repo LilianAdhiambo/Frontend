@@ -1,0 +1,152 @@
+		
+		#wrapper
+		{
+			max-width:1000px;
+			background-color:#ADD8E6;
+			border-radius:20px;
+			min-height:100%;
+			margin: 0 auto;
+
+		}
+
+		body
+		{
+			background-color:#696969;
+		}
+
+		#lists{
+			box-shadow: 2px 2px 2px #1E90FF;
+			max-width:1000px;
+			min-height: 150px;
+			background-color:#1E90FF;
+			border-radius:15px;
+			overflow: auto;
+
+		}
+
+		ul li
+		{
+			list-style:none;
+			border:2px solid #000;
+			height:80px;
+			width:80px;
+			moz-border-radius:80px;
+            -webkit-border-radius:80px;
+            margin:20px;
+            float:right;
+            text-align: center;
+            line-height:80px;
+		}
+
+		ul li:hover{
+			background:#40E0D0;
+	         cursor: pointer;
+	         color: #FFF8DC;
+	         font-style:italic;
+	         
+		}
+
+		li:nth-child:hover(4)
+		{
+			background-color:#FF00FF;
+			cursor: pointer;
+		}
+
+		li:nth-child(even)
+		{
+			background-color:#696969;
+		}
+
+		li:nth-child(odd)
+		{
+			background-color:#20B2AA;
+		}
+
+		li:nth-child(2)
+
+	{
+	       background-color:#FF69B4;	
+	}
+
+	#box1{
+		border-radius: 20px;
+		background-color:#48D1CC;
+		min-height:360px;
+		 margin:10px;
+	}
+
+	#box2{
+		border-radius: 20px;
+		background-color:#48D1CC;
+		 min-height:360px;
+		 margin:10px;
+	}
+
+	#boxes img{
+		height:80px;
+			width:80px;
+			moz-border-radius:80px;
+            -webkit-border-radius:80px;
+            margin: 5px;
+            float:left;
+	}
+
+	#boxes{
+		column-count:2;
+       -moz-column-count:2; /* Firefox */
+        -webkit-column-count:2; /* Safari and Chrome */
+}
+
+p{
+	font-family:blackadder itc;
+	font-size:15px;
+	font-style:italic;
+	margin:5px;
+	color: #696969;
+}
+
+span{
+	float:left;
+	width:0.7em;
+	font-size:300%;
+	font-family:blackadder itc;
+	line-height:80%;
+}
+
+h1{
+	font-family:blackadder itc;
+	font-size:26px;
+	text-align:left;
+	font-style: italic;
+	text-shadow:1px 1px #008000;
+
+
+}
+footer ul li:hover{
+	background:#90EE90;
+	cursor: pointer;
+	color:#000;
+}
+footer{
+	background-color:#2F4F4F;
+	box-shadow:2px 2px 2px #696969;
+	max-width:1000px;
+	min-height:160px;
+	border-radius:15px;
+	overflow: auto;
+}
+footer ul li:nth-child(odd){
+	background-color:#1E90FF;
+}
+footer ul li:nth-child(even){
+	background-color:#9370DB;
+}
+
+footer ul li:nth-child(even):hover{
+	background-color:#9370DB;
+}
+/*	background-color:#9370DB;
+}*/
+
+
+	

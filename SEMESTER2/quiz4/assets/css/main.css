@@ -1,0 +1,242 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{
+	width: 1000px;
+	margin: 0 auto;
+	-moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+    background-color:#C0C0C0;
+    border-radius:25px;
+    min-height:1000px;
+
+}
+body{
+	background-color:#FFB6C1;
+}
+
+header img{
+	float: left;
+	margin:5px 5px 0px 10px;
+	border-radius: 15px;
+	 
+}
+header{
+	width:1000px;
+	height:130px;
+	background-color:#00BFFF;
+	box-shadow: 2px 2px 2px #00BFFF;
+	/*border-top-left-radius:15px;
+	border-top-right-radius: 15px; */
+	border-radius: 20px;
+}
+
+nav ul li{
+
+	display: inline;
+	border:2px solid #a1a1a1;
+	padding:10px 40px; 
+	background:#AFEEEE;
+	width:100px;
+	border-radius:20px;
+
+}
+
+
+nav ul li a:hover {
+	font-size: 15px;
+  background:#C71585;
+  border:1px solid;
+  border-radius:25px;
+  color: #fff;
+}
+nav ul li a{
+	text-decoration: none;
+	padding: 0px 20px;
+}
+nav{
+	border:2px solid #a1a1a1 ;
+	border-radius: 20px;
+	background-color:#1E90FF;
+	margin:5px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	
+}
+
+#fast {
+	margin: 10px;
+}
+
+section img{
+	border-radius: 15px;
+	margin:5px;
+}
+
+h1{
+	margin: 0px 0px 0px 0px;
+	font-family:courier;
+	text-shadow:2px 2px #ffffff;
+	font-size: 36px;
+	
+}
+
+#pent{
+	
+column-count:3;
+-moz-column-count:3; 
+-webkit-column-count:3;
+}
+
+
+section{
+	border-radius: 20px;
+}
+p{
+	font-family:Gabriola;
+	font-size: 20px;
+	padding: 3px;
+
+}
+
+
+footer{
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border:1px solid #CCC;
+    height:25%;
+    background-color:#202020 ;
+}
+
+
+footer{
+	border-radius:25px;
+	border-top-right-radius:0px;
+	border-top-left-radius:0px;
+	clear:both; 
+}
+
+footer ul li{
+	display: inline;
+	float: right;
+}
+
+/*styling about page*/
+#fast{
+	border-radius: 20px;
+	background-color: #9370DB;
+	margin:5px;
+}
+/*stying contacts page*/
+#kit img{
+	border-radius: 20px;
+	margin: 10px;
+	float: left;
+	clear:both;
+}
+#kit
+{
+
+	width:350px;
+	float: left;
+}
+
+#rust{
+	float:right;
+	width:600px;
+	height: 600px;
+
+}
+h3{
+	font-family: Gabriola;
+	font-size: 24px;
+}
+#head{
+	text-align: center;
+}
+
+
+#button{
+	background:#1E90FF;
+	border: none;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	color: #ffffff;
+	display: block;
+	font: 18px Georgia, "Times New Roman", Times, serif;
+	letter-spacing: 1px;
+	padding: 7px 25px;
+	text-shadow: 0 1px 1px #000000;
+	text-transform: uppercase;
+}
+
+#button:hover{
+	background: #1e2506;
+	cursor: pointer;
+}
+
+
+#input{
+	background: #ffffff;
+	border:2px solid #1e2506 ;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	font: italic 13px Georgia, "Times New Roman", Times, serif;
+	outline: none;
+	padding: 5px;
+	width: 200px;
+	margin:5px;
+} 
+
+#option{
+	background: #ffffff;
+	border:2px solid #1e2506 ;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-khtml-border-radius: 5px;
+	border-radius: 5px;
+	font: italic 13px Georgia, "Times New Roman", Times, serif;
+	outline: none;
+	padding: 5px;
+	width:80px;
+	margin:5px;
+}
+
+
+#bat{
+	background: #ffffff;
+	border: none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	font: italic 13px Georgia, "Times New Roman", Times, serif;
+	outline: none;
+	padding: 5px;
+	width: 400px;
+}
+fieldset{
+	background: #9370DB;
+	line-height: 20px;
+	padding: 0 0 0 30px;
+	border-radius: 20px;
+
+
+}
+
+/*styling apartment page*/
+#apart{
+	border-radius: 20px;
+	background-color:#40E0D0 ; 
+	margin: 10px;
+	float: left;
+	font-size: 13px;
+
+}
+

@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#0F0;
+	background-image:url(../images/pictures/Background%20Image%20pics%201024X768.jpg);
+
+	 
+}
+#wrapper {
+	width:900px;
+	margin-left:auto;
+	margin-right:auto
+	 
+}
+.panel {
+	width:50%;
+	float:left;
+	height:900px
+}
+#red {
+	background:#F00
+}
+#blue {
+	background:#009
+}
+p {
+	font-family:"Blackadder ITC";
+	font-size:22px;
+	font-style:italic;
+	font-weight:500;
+	color:#F0F;
+	padding-bottom:20px;
+	padding-top:0;
+	padding-left:20px;
+	padding-right:20px 
+}
+h1 {
+	font-family:"Adobe Arabic";
+	border:#F0F;
+	border-left:dotted;
+	border-right:groove;
+	border-style:dashed;
+	font-family:"Times New Roman", Times, serif;
+	font-size:24px;
+	font-style:oblique;
+	font-weight:bold;
+	color:#FFF
+}
+ol {
+	font-family:Algerian, Gabriola, Shruti, Vivaldi;
+	font-size:24px;
+	color:#0F0;
+	font-style:oblique
+}
+ul {
+	font-family:"Adobe Fan Heiti Std B", "Wingdings 2", cursive, "Adobe Caslon Pro Bold";
+	font-size:18px;
+	font-weight:500;
+	color:#0CC
+}

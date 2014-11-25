@@ -1,0 +1,19 @@
+#wrapper{background-image: url(../images/pictures/url.jpg); margin:0 auto 0 auto; border: solid 2px #F00; width:1000px;}
+body{background-color:#9FC;}
+#blue{float:right;}
+h1{ font-family:"Adobe Arabic"; font-size:40px; font-style:italic; text-shadow:2px 2px #FF0; color:#900; text-align:right;}
+ul li{list-style:none;padding:0px 0px 50px 0px;}
+p {
+	color: #F0F;
+	font-family:adobe arabic;
+	font-size: 26px;
+	font-style: normal; text-align:center; }
+	
+h2{
+	font-family: "MS Serif", "New York", serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #0FF;
+	text-shadow: 2px 2px #333;
+}
+#green{text-align:center; padding:-350px;}}

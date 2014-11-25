@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background:purple}
+h{background:yellow}
+p{background:blue}
+ol{background:color;blue}
+ol li{background:green}
+padding{background:left}

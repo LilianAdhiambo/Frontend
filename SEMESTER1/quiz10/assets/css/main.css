@@ -1,0 +1,60 @@
+h1 {
+	font-family: Algerian, Courier;
+	font-size: 36px;
+	font-weight: bold;
+	text-align:right;
+	text-shadow: 2px 2px #FF0;
+	color:#0F0;
+}
+ul li {
+	list-style: none;
+	padding:0px 0px 50px 0px;
+	color:#F0F;	
+	 
+}
+
+#wrapper {
+	background-image: url(../../../quiz8/assets/images/pictures/MySpaceBackgroundPurple.gif);
+	margin: 0 auto 0 auto;
+	width: 1000px;
+	border: ;solid 2px #90F;
+}
+p {
+	color: #F0F;
+	font-family: "Adobe Arabic";
+	font-size: 24px;
+	font-style: italic;
+	text-align: center;
+}
+h2 {
+	font-family: "MS Serif", "New York", serif;
+	font-size: 24px;
+	font-style: normal;
+	color: #0FF;
+	text-shadow: 2px 2px #333;
+}
+.white {
+	text-align:center;
+}
+body {
+	background-color: #FF0;
+}
+#red{
+	float:left;
+	padding:0px 150px 0px 0px;
+	}
+#blue {
+	float: right;
+}
+#yellow{text-align:center;
+float:left;
+
+}
+span
+{
+float:left;
+width:0.7em;
+font-size:400%;
+font-family:algerian,courier;
+line-height:80%;
+}

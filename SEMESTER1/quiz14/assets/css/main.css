@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper{
+	margin:0 auto;
+	height:900px;
+	width:1000px;
+	border:3px solid #000;
+	background-color:#FCF;
+	margin-color:red;
+}
+p{
+	font-family: vijaya;
+	font-size: 20px;
+	margin:20px;
+	outline: 20px;
+	padding-left: 10px;
+
+}
+h1{
+	font-family: franklin Gothic Demi;
+	font-size: 24px;
+	text-align: center;
+
+}
+img{
+	float:left;
+	margin:5px;
+	padding:10px;
+}
+body{
+	background-color:#9CF;
+}

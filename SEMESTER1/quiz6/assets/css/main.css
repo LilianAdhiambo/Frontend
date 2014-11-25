@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+#wrapper {
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.test {
+	width: 50%;
+	float:left;
+	height: 1200px;
+}
+#yellow {
+	background-image: url(../images/pictures/url.jpg);
+	font-family: "Blackadder ITC";
+	font-size: 24px;
+	font-style: italic;
+	border:thick;
+	 border-width: medium;
+	  border-color:#F0F;
+	  outline: #F00;
+	  outline-style:solid;
+	  outline-width:thick;
+	  
+}
+#purple {
+	background-image: url(../images/pictures/vector-background-patterns-flower-art-568183.jpg);
+	font-family: "MS Serif", "New York", serif;
+	font-size: 18px;
+	font-style: oblique;
+	outline:#F0F;
+	outline-style: solid;
+	outline-width:medium;
+}
+ul {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 24px;
+	font-style: inherit;
+	text-align: center;
+	color: #FF0;
+}
+ol {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	text-align: justify;
+	color: #F00;
+}
+h1{font-size:24px;
+}
+#girl{float:right;
+}
